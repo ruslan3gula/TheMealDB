@@ -1,2 +1,2 @@
 # TheMealDB
-Created with CodeSandbox, React, Ant. A light version of 
+Created with CodeSandbox, React, Ant. A light version of themealdb.com
