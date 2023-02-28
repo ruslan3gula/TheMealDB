@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  /* background-color: rgb(247, 246, 242); */
+  /* background-color: #fff; */
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.category_container .category_images > img {
+  height: 100px;
+  width: 100px;
+}
+
+p {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.search_title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.header {
+  display: flex;
+}
+
+.meal_container {
+  margin: 20px 20px 20px 20px;
+}
+
+.meal_ingredients img {
+  width: 112 px;
+  height: 112px;
+}
+
+.meal_main_image {
+  width: 700px;
+  height: 700px;
+  object-fit: contain;
+}
+
+.meal_description {
+  text-align: center;
+}
